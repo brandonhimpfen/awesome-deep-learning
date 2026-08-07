@@ -42,6 +42,7 @@
 - [PyTorch Lightning](https://www.pytorchlightning.ai/) - A lightweight PyTorch wrapper for scalable deep learning.
 - [DeepSpeed](https://www.deepspeed.ai/) - An optimization library for training large deep learning models.
 - [ONNX](https://onnx.ai/) - An open format to represent deep learning models, enabling interoperability across frameworks.
+- [NEURAX](https://github.com/rustnew/NEURAX) - Analytical compiler for neural network architectures. Predicts training cost, memory, and performance before training (<50ms, zero GPU).
 
 ## Neural Network Architectures
 
